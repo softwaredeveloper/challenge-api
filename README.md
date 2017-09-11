@@ -11,7 +11,7 @@ A challenge is exactly what the name suggests: it is a challenge by one party (a
 
 Challenges can range from fairly simple (idea suggestions, creation of logos, videos, digital games and mobile applications) to proofs of concept, designs, or finished products that solve the grand challenges of the 21st century.
 
-For more information, visit [Challenge.gov][1] and also json customizations at  [jauery ajax developer][11]
+For more information, visit [Challenge.gov][1] and also json customizations at  [jquery ajax developer][11]
 
 
 What is this project about (challenge-api)?
