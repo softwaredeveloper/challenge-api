@@ -11,7 +11,7 @@ A challenge is exactly what the name suggests: it is a challenge by one party (a
 
 Challenges can range from fairly simple (idea suggestions, creation of logos, videos, digital games and mobile applications) to proofs of concept, designs, or finished products that solve the grand challenges of the 21st century.
 
-For more information, visit [Challenge.gov][1] and also json customizations at  [http://www.phpfreelanceprogrammer.com/jquery-ajax-programmer.html][11]
+For more information, visit [Challenge.gov][1] and also json customizations at  [jauery ajax developer][11]
 
 
 What is this project about (challenge-api)?
@@ -52,7 +52,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 
 [1]:  http://challenge.gov/
-[11]: http://www.phpfreelanceprogrammer.com/jquery-ajax-programmer.html
+[11]: https://www.phpfreelanceprogrammer.com/jquery-ajax-programmer.html
 [2]:  http://www.gsa.gov/portal/category/100000/
 [3]:  http://challengepost.com/
 [4]:  http://challenge.gov/api/challenges.xml
